@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "582383892976",
+    "project_id": "my-flutter-personal-notes",
+    "storage_bucket": "my-flutter-personal-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582383892976:android:53449b69ecb1ad86a14535",
+        "android_client_info": {
+          "package_name": "ke.co.eskuli.mypersonalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582383892976-3oi5nu19o3r8cmlp3k019n2528jfagk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnWSFo7g3_8ovRtYjT5F7BUCJJxJ1Bg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582383892976-3oi5nu19o3r8cmlp3k019n2528jfagk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582383892976-lih7m701v2n0s7cnb7a4dmmorijo0tb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ke.co.e-skuli.mypersonalnotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
